@@ -1,0 +1,37 @@
+b{
+    color:green;
+    font-size:50px;
+}
+b:hover{
+    color:red;
+}
+.first{
+    color:red;
+}
+.second{
+    color:green;
+}
+.box{
+    color:blue;
+}
+.box:hover{
+    color:red;
+}
+body{
+    background-color: black;
+}
+.name:hover{
+    color:purple;
+}
+.roll:hover{
+    color:red;
+}
+.password:hover{
+    color:blue;
+}
+.first:hover{
+    color:white;
+}
+.second:hover{
+    color:white;
+}
